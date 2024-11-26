@@ -6,7 +6,7 @@
         <meta name="description" content="" />
         <meta name="author" content="Caio Lebarch" />
         <title>Curríuculo: Caio Lebarch</title>
-        <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
+        <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="caiolebarch"></script>
         <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" type="text/css" href="css/styles.css"/>
