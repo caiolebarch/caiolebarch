@@ -6,11 +6,11 @@
         <meta name="description" content="" />
         <meta name="author" content="Caio Lebarch" />
         <title>Curríuculo: Caio Lebarch</title>
-        <link rel="icon" type="image/x-icon" href="picture/img/title.ico" />
         <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
         <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+        <link rel="icon" type="image/x-icon" href="picture/img/title.ico" />
     </head>
     <body id="page-top">
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
